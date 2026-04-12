@@ -85,8 +85,8 @@ public class BookAccess {
         System.out.println(book2);
     }
 }
----
 ## ▶️ Output Example
+~~~
 The first book object is 
 Title - Atomic Habits
 Author - James Clear
@@ -97,12 +97,14 @@ Title - Sapiens
 Author - Yuval Noah Harari
 Price - 25.00
 
----
+~~~
 ## 🎯 Concepts Covered
+~~~
 Java Classes & Objects
 Encapsulation
 Constructors (Default & Parameterized)
 Method Overloading
 Getters & Setters
 toString() Method
+~~~
 
