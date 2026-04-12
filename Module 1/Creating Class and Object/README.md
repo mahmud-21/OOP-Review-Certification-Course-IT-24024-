@@ -54,6 +54,9 @@ public class Book {
                 + this.author + "\nPrice - " + String.format("%.2f", this.price);
     }
 }
+```
+## 📌 BookAccess Class (Main Program)
+````
 public class BookAccess {
     public static void main(String s[]) {
         Book book1 = new Book();
