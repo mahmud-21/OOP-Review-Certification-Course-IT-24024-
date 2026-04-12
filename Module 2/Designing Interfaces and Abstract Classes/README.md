@@ -212,3 +212,34 @@ public class MusicShop {
         }
     }
 }
+```
+## Output of the Code 
+~~~
+===== PLAYING INSTRUMENTS =====
+Playing the electric guitar with 6 strings
+Instrument: Fender Stratocaster, Year: 2020, Strings: 6, Type: electric
+Playing the grand piano
+Instrument: Steinway, Year: 2015, Type: Grand
+Playing the acoustic guitar with 12 strings
+Instrument: Martin, Year: 2018, Strings: 12, Type: acoustic
+
+===== MAINTAINING INSTRUMENTS =====
+Working with: Fender Stratocaster
+Tuning the electric guitar
+Increasing pitch of the guitar
+Cleaning the electric guitar
+Inspecting the electric guitar from 2020
+-----
+Working with: Steinway
+Tuning the piano
+Increasing pitch of the piano
+Cleaning the piano keys and interior
+Inspecting the grand piano from 2015
+-----
+Working with: Martin
+Tuning the acoustic guitar
+Increasing pitch of the guitar
+Cleaning the acoustic guitar
+Inspecting the acoustic guitar from 2018
+-----
+~~~
