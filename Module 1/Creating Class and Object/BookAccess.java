@@ -1,5 +1,5 @@
 public class BookAccess {
-    public static void main(String s[]) {
+    public static void main(String[] args)  {
         Book book1 = new Book();
         book1.setTitle("Atomic Habits");
         book1.setAuthor("James Clear");
